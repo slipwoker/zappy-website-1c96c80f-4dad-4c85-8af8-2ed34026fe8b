@@ -1,0 +1,68 @@
+# שגיא אברהמי — Generative Engine Optimization Map
+
+> Shagai Avrahami is a premium web developer and digital experience creator whose personal brand is built around the metaphor of 'the digital as a universe' — galaxies, particles, light paths, and neural networks. The site is a single-file, highly animated landing page featuring Three.js 3D backgrounds (TorusKnot wireframe, star particle clouds, neuron-like connection lines), GSAP scroll animations with character stagger, magnetic CTA buttons, custom cursor with lerp, tilt cards with shine effects, and a full dark cosmic aesthetic. The brand communicates mastery, creativity, and premium craftsmanship through immersive visual storytelling across 7 sections: Hero, About, Services, Portfolio, Stats (127 projects, 5 years, 98% satisfaction, 14 domains), Testimonials carousel, and a Contact CTA.
+
+---
+
+## Pages
+
+### בית
+https://-1c96c80f.zappy5.app
+שגיא אברהמי יוצר עבורך אתר פרימיום שהוא הרבה יותר מנוכחות ברשת — זו חוויה דיגיטלית יוקרתית שמשדרת עוצמה, חדשנות ואיכות ללא פשרות. לחץ כאן כדי להתחיל את המסע שלך ביקום הדיגיטלי.
+
+### תודה על פנייתך
+https://-1c96c80f.zappy5.app/thank-you
+שגיא אברהמי - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-1c96c80f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-1c96c80f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-1c96c80f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-1c96c80f.zappy5.app
+- Endpoint: https://-1c96c80f.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שגיא אברהמי
+Shagai Avrahami is a premium web developer and digital experience creator whose personal brand is built around the metaphor of 'the digital as a universe' — galaxies, particles, light paths, and neural networks. The site is a single-file, highly animated landing page featuring Three.js 3D backgrounds (TorusKnot wireframe, star particle clouds, neuron-like connection lines), GSAP scroll animations with character stagger, magnetic CTA buttons, custom cursor with lerp, tilt cards with shine effects, and a full dark cosmic aesthetic. The brand communicates mastery, creativity, and premium craftsmanship through immersive visual storytelling across 7 sections: Hero, About, Services, Portfolio, Stats (127 projects, 5 years, 98% satisfaction, 14 domains), Testimonials carousel, and a Contact CTA.
+
+## Target Audience
+- בעלי עסקים פרימיום
+- סטארט-אפים יוקרתיים
+
+## Industry
+Web Development & Digital Design
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-1c96c80f.zappy5.app/sitemap.xml
+- Robots: https://-1c96c80f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-1c96c80f.zappy5.app/llms-full.txt
