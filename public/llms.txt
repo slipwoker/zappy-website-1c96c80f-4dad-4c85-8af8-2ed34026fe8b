@@ -32,7 +32,9 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: sagiavtahami@gmail.com
+- Phone: 0548059582
+- Phone (tel): tel:0548059582
 
 ### Contact form
 - URL: https://example.com
